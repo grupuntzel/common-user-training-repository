@@ -1,7 +1,7 @@
 # common-user-training-repository
 ## About the Repository
 
-This is a demo repository used for the Telia's Internal GitHub training. The repository will contain some example code, branches, and tabs to help to vizualize the different functionalities of the GitHub's user interface.
+This is a demo repository used for the GitHub Common training. The repository will contain some example code, branches, and tabs to help to vizualize the different functionalities of the GitHub's user interface.
 
 ## Training Agenda
 
@@ -18,4 +18,4 @@ Agenda of the training is
 * Review changes and understanding the approval process – Marcell / 40mins​
 * **Q&A**
 
-This agenda has been pproved by the GitHub Trainers 🥇
+This agenda has been pproved by the Trainers 🥇
