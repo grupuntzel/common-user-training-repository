@@ -18,4 +18,4 @@ Agenda of the training is
 * Review changes and understanding the approval process – Marcell / 40mins​
 * **Q&A**
 
-This agenda has been pproved by the Trainers 🥇
+This agenda has been approved by the Trainers 🥇
